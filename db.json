@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "id": "5cd3",
+      "titulo": "Game Boy Classic",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/gameboyclassic.png?raw=true"
+    },
+    {
+      "id": "e6b0",
+      "titulo": "Stormtrooper",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/stormtrooper.png?raw=true"
+    },
+    {
+      "id": "31b3",
+      "titulo": "Game Boy Classic",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/gameboyclassic.png?raw=true"
+    },
+    {
+      "id": "ebd6",
+      "titulo": "Stormtrooper",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/stormtrooper.png?raw=true"
+    },
+    {
+      "id": "7b40",
+      "titulo": "Game Boy Classic",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/gameboyclassic.png?raw=true"
+    },
+    {
+      "id": "4bd8",
+      "titulo": "Stormtrooper",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/stormtrooper.png?raw=true"
+    },
+    {
+      "id": "c547",
+      "titulo": "Game Boy Classic",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/gameboyclassic.png?raw=true"
+    },
+    {
+      "id": "f6a8",
+      "titulo": "Stormtrooper",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/stormtrooper.png?raw=true"
+    },
+    {
+      "id": "e814",
+      "titulo": "Game Boy Classic",
+      "descripcion": "$ 60.00",
+      "imagen": "https://github.com/josejhc/img-aluraGeek/blob/main/gameboyclassic.png?raw=true"
+    }
+  ]
+}
